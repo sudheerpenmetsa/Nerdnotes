@@ -1,0 +1,2 @@
+### Default shell
+	echo $SHELL
